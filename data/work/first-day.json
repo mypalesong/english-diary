@@ -1,0 +1,17 @@
+{
+  "title": "첫 출근",
+  "diary": {
+    "korean": [
+      "오늘 새 회사에 첫 출근했는데 엄청 떨렸다.",
+      "사수분이 친절하게 업무를 알려주셔서 다행이었다.",
+      "점심시간에 팀원들이 회사 근처 맛집을 소개해줘서 좋았다.",
+      "아직은 모르는 게 많지만 차근차근 배워나가야겠다."
+    ],
+    "english": [
+      "It was my first day at the new company and I was super nervous.",
+      "Luckily, my mentor was really kind and walked me through everything.",
+      "During lunch, my teammates showed me some good spots around the office.",
+      "There's still a lot I don't know, but I'll take it step by step."
+    ]
+  }
+}

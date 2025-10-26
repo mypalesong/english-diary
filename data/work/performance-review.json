@@ -1,0 +1,17 @@
+{
+  "title": "업무 평가",
+  "diary": {
+    "korean": [
+      "오늘 반기 평가 결과를 받았는데 생각보다 좋은 점수를 받았다.",
+      "상사가 최근 프로젝트에서 내 역할을 높이 평가해주셨다.",
+      "부족한 부분도 지적받았지만 발전할 수 있는 방향을 제시해주셔서 도움이 됐다.",
+      "다음 평가 때는 더 좋은 결과를 받을 수 있도록 노력해야겠다."
+    ],
+    "english": [
+      "I got my semi-annual performance review today, and the score was better than I expected.",
+      "My boss gave me high marks for my role in the recent project.",
+      "They also pointed out areas I need to work on and suggested ways to improve, which was helpful.",
+      "I'll work hard so I can get even better results next time."
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "title": "고객 미팅",
+  "diary": {
+    "korean": [
+      "오늘 중요한 고객사와 미팅이 있어서 아침부터 긴장했다.",
+      "발표 자료 준비도 완벽하게 하고 예상 질문도 다 정리했다.",
+      "미팅은 생각보다 잘 진행됐고 고객도 만족스러워하는 것 같았다.",
+      "계약이 성사되면 좋겠다. 일단 최선을 다했으니 결과를 기다려봐야지."
+    ],
+    "english": [
+      "I had an important client meeting today and I was nervous from the morning.",
+      "I prepared the presentation materials perfectly and organized all the expected questions.",
+      "The meeting went better than expected and the client seemed satisfied.",
+      "I hope we land the contract. I did my best, so now I'll just wait for the results."
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "title": "실수",
+  "diary": {
+    "korean": [
+      "오늘 중요한 보고서에서 숫자를 잘못 적어서 상사한테 지적받았다.",
+      "얼굴이 확 달아올라서 창피했다.",
+      "바로 수정해서 다시 제출했지만 한동안 기분이 안 좋았다.",
+      "다음부터는 제출하기 전에 꼭 두세 번 확인해야겠다."
+    ],
+    "english": [
+      "I made a mistake in an important report today and my boss called me out on it.",
+      "My face turned red and I was so embarrassed.",
+      "I fixed it right away and resubmitted, but I felt terrible for a while.",
+      "From now on, I need to double or triple-check everything before submitting."
+    ]
+  }
+}

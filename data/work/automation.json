@@ -1,0 +1,17 @@
+{
+  "title": "업무 자동화",
+  "diary": {
+    "korean": [
+      "매일 반복적으로 하던 작업을 자동화하는 스크립트를 짰다.",
+      "처음엔 어려웠지만 인터넷 검색하면서 하나씩 해결했다.",
+      "테스트해보니까 5분 걸리던 일이 10초 만에 끝났다.",
+      "동료들한테도 공유했더니 다들 좋아했다. 뿌듯하다."
+    ],
+    "english": [
+      "I wrote a script to automate a task I'd been doing repeatedly every day.",
+      "It was tough at first, but I figured it out step by step with some googling.",
+      "When I tested it, something that took 5 minutes was done in 10 seconds.",
+      "I shared it with my coworkers and they loved it. Feels great."
+    ]
+  }
+}
