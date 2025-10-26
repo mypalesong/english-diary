@@ -76,8 +76,7 @@
             font-family: 'Inter', 'Noto Sans KR', -apple-system, BlinkMacSystemFont, sans-serif;
             background: var(--bg-primary);
             color: var(--text-primary);
-            height: 100vh;
-            overflow: hidden;
+            min-height: 100vh;
             transition: background-color 0.3s ease, color 0.3s ease;
             margin: 0;
             padding: 0;
@@ -86,9 +85,8 @@
         .app-container {
             display: grid;
             grid-template-columns: var(--sidebar-width) 1fr;
-            height: 100vh;
+            min-height: 100vh;
             position: relative;
-            overflow: hidden;
         }
 
         .app-container.settings-open {
@@ -388,10 +386,9 @@
         /* Main Content */
         .main-content {
             background: var(--bg-primary);
-            overflow-y: auto;
-            height: 100vh;
             display: flex;
             flex-direction: column;
+            min-height: 100vh;
         }
 
         .content-header {
@@ -633,8 +630,6 @@
 
         .content-body {
             padding: 0;
-            flex: 1;
-            overflow-y: auto;
             display: flex;
             flex-direction: column;
         }
@@ -642,15 +637,10 @@
         .content-body > #content {
             display: flex;
             flex-direction: column;
-            height: 100%;
         }
 
         .content-area {
-            flex: 1;
             padding: 2.5rem;
-            display: flex;
-            flex-direction: column;
-            min-height: 0;
         }
 
         .dual-panel {
@@ -658,7 +648,6 @@
             gap: var(--panel-gap, 2rem);
             max-width: var(--content-max-width, 1400px);
             margin: 0 auto;
-            height: 100%;
         }
 
         .dual-panel.layout-dual {
@@ -680,9 +669,6 @@
             padding: var(--panel-padding, 2rem);
             transition: all 0.2s ease;
             box-shadow: var(--shadow-sm);
-            display: flex;
-            flex-direction: column;
-            min-height: 0;
         }
 
         .panel:hover {
@@ -709,10 +695,6 @@
             line-height: var(--line-height, 1.8);
             font-size: var(--font-size, 1rem);
             counter-reset: line-number;
-            flex: 1;
-            overflow-y: auto;
-            overflow-x: hidden;
-            -webkit-overflow-scrolling: touch;
         }
 
         .text-content p {
@@ -1231,13 +1213,15 @@
                 position: fixed;
                 top: 0;
                 left: 0;
-                height: 100vh;
+                height: 100%;
+                max-height: 100vh;
                 width: 280px;
                 z-index: 1000;
                 transform: translateX(-100%);
                 transition: transform 0.3s ease;
                 border-right: 1px solid var(--border-color);
                 box-shadow: var(--shadow-lg);
+                overflow-y: auto;
             }
 
             .sidebar.open {
@@ -1275,13 +1259,10 @@
 
             .panel {
                 padding: 1rem;
-                min-height: 0;
             }
 
             .text-content {
-                overflow-y: auto;
-                overflow-x: hidden;
-                -webkit-overflow-scrolling: touch;
+                /* 자연스럽게 늘어남 */
             }
 
             .dual-panel.layout-dual {
@@ -1296,11 +1277,6 @@
 
             .dual-panel .english-panel {
                 display: none !important;
-            }
-
-            .panel {
-                height: 100%;
-                max-height: none;
             }
 
             .text-content p {
@@ -1331,10 +1307,6 @@
         }
 
         @media (max-width: 640px) {
-            body {
-                overflow: hidden !important;
-            }
-
             .content-header {
                 padding: 0.75rem 1rem 0.75rem 4rem;
                 flex-direction: row;
@@ -1404,7 +1376,6 @@
 
             .content-area {
                 padding: 0.5rem 1rem;
-                flex: 1;
             }
 
             .panel {
@@ -1417,9 +1388,6 @@
             }
 
             .text-content {
-                overflow-y: auto;
-                overflow-x: hidden;
-                -webkit-overflow-scrolling: touch;
                 line-height: 1.6;
             }
 
@@ -2584,13 +2552,6 @@
             sidebar.classList.toggle('open');
             hamburgerBtn.classList.toggle('active');
             sidebarOverlay.classList.toggle('active');
-
-            // Prevent body scroll when sidebar is open
-            if (sidebar.classList.contains('open')) {
-                document.body.style.overflow = 'hidden';
-            } else {
-                document.body.style.overflow = '';
-            }
         }
 
         hamburgerBtn.addEventListener('click', toggleSidebar);
