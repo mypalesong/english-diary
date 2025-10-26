@@ -1514,15 +1514,15 @@
                 <button class="close-btn" id="closeSettings">✕</button>
             </div>
             <div class="settings-content">
-                <!-- Theme -->
-                <div class="setting-section">
+                <!-- Theme (Fixed to Dark) -->
+                <div class="setting-section" style="display: none;">
                     <h4 class="section-title">Theme</h4>
                     <div class="setting-row">
-                        <span class="setting-label">Color Scheme</span>
+                        <span class="setting-label">Color Scheme (Fixed: Dark)</span>
                         <div class="theme-selector">
                             <button class="theme-btn" data-theme="light">☀️ Light</button>
-                            <button class="theme-btn active" data-theme="auto">⚙ Auto</button>
-                            <button class="theme-btn" data-theme="dark">🌙 Dark</button>
+                            <button class="theme-btn" data-theme="auto">⚙ Auto</button>
+                            <button class="theme-btn active" data-theme="dark">🌙 Dark</button>
                         </div>
                     </div>
                 </div>
@@ -1641,7 +1641,7 @@
 
         // Settings with defaults
         const defaultSettings = {
-            theme: 'auto',
+            theme: 'dark',
             showLineNumbers: true,
             fontSize: 16,
             lineHeight: 1.8,
@@ -1697,14 +1697,10 @@
             updateSettingsUI();
         }
 
-        // Apply theme
+        // Apply theme (Fixed to Dark)
         function applyTheme(theme) {
-            if (theme === 'auto') {
-                const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
-                document.documentElement.setAttribute('data-theme', prefersDark ? 'dark' : 'light');
-            } else {
-                document.documentElement.setAttribute('data-theme', theme);
-            }
+            // Always apply dark theme
+            document.documentElement.setAttribute('data-theme', 'dark');
         }
 
         // Update settings UI controls
@@ -1741,14 +1737,14 @@
             document.getElementById('koreanFont').value = settings.koreanFont;
         }
 
-        // Settings event listeners
-        document.querySelectorAll('.theme-btn').forEach(btn => {
-            btn.addEventListener('click', () => {
-                settings.theme = btn.dataset.theme;
-                applySettings();
-                saveSettings();
-            });
-        });
+        // Settings event listeners (Theme buttons disabled - Dark theme fixed)
+        // document.querySelectorAll('.theme-btn').forEach(btn => {
+        //     btn.addEventListener('click', () => {
+        //         settings.theme = btn.dataset.theme;
+        //         applySettings();
+        //         saveSettings();
+        //     });
+        // });
 
         // Checkbox inputs
         document.getElementById('showLineNumbers').addEventListener('change', (e) => {
@@ -2536,12 +2532,12 @@
             });
         }
 
-        // Listen for system theme changes
-        window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', () => {
-            if (settings.theme === 'auto') {
-                applyTheme('auto');
-            }
-        });
+        // Listen for system theme changes (Disabled - Dark theme fixed)
+        // window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', () => {
+        //     if (settings.theme === 'auto') {
+        //         applyTheme('auto');
+        //     }
+        // });
 
         // Navigation event listeners
         prevBtn.addEventListener('click', navigateToPrevious);
