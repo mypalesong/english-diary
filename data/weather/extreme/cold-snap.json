@@ -1,0 +1,17 @@
+{
+  "title": "한파",
+  "diary": {
+    "korean": [
+      "한파 경보가 내려져서 영하 15도까지 떨어졌다.",
+      "수도관이 얼까 봐 걱정돼서 물을 조금씩 틀어놨어.",
+      "밖에 나가면 숨쉬기도 힘들 정도로 춥다.",
+      "이불 속에서 하루 종일 웅크리고 있었다."
+    ],
+    "english": [
+      "A cold wave warning was issued and temperatures dropped to -15 degrees.",
+      "I was worried the water pipes would freeze, so I kept the water running slightly.",
+      "It's so cold outside that it's even hard to breathe.",
+      "I curled up in my blankets all day."
+    ]
+  }
+}

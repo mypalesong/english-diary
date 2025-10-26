@@ -1,0 +1,17 @@
+{
+  "title": "일기 쓰기",
+  "diary": {
+    "korean": [
+      "오늘 하루 있었던 일들을 일기장에 적었다.",
+      "글로 쓰다 보니 생각이 정리되는 느낌이야.",
+      "감정을 표현하는 것도 좋은 방법인 것 같다.",
+      "매일 쓰는 습관을 들이고 싶다."
+    ],
+    "english": [
+      "I wrote down what happened today in my diary.",
+      "As I wrote, I felt my thoughts organizing.",
+      "Expressing emotions seems like a good method.",
+      "I want to develop a habit of writing every day."
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "title": "미세먼지",
+  "diary": {
+    "korean": [
+      "오늘 미세먼지 농도가 매우 나쁨이라서 마스크를 쓰고 나갔다.",
+      "하늘이 뿌옇게 보여서 기분이 우울했어.",
+      "창문도 열지 못하고 공기청정기만 돌렸다.",
+      "맑은 공기가 그리운 하루였다."
+    ],
+    "english": [
+      "The fine dust level was very bad today, so I wore a mask when I went out.",
+      "The sky looked hazy and it made me feel gloomy.",
+      "I couldn't even open the windows and just ran the air purifier.",
+      "It was a day when I missed clean air."
+    ]
+  }
+}

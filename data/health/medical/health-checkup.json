@@ -1,0 +1,17 @@
+{
+  "title": "건강검진",
+  "diary": {
+    "korean": [
+      "오늘은 1년에 한 번 하는 건강검진 날이다.",
+      "아침부터 금식해서 배가 너무 고팠어.",
+      "이것저것 검사하느라 3시간이나 걸렸다.",
+      "결과가 나오면 좀 걱정되는데 건강했으면 좋겠다."
+    ],
+    "english": [
+      "Today is the day for my annual health checkup.",
+      "I was so hungry from fasting since morning.",
+      "It took 3 hours to do all the various tests.",
+      "I'm a bit worried when the results come out, but I hope I'm healthy."
+    ]
+  }
+}

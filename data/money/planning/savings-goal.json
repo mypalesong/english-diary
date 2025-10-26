@@ -1,0 +1,17 @@
+{
+  "title": "저축 목표",
+  "diary": {
+    "korean": [
+      "올해 저축 목표를 세우고 실천하기로 했다.",
+      "매달 일정 금액을 저축 계좌로 자동 이체하기로 했어.",
+      "목표 금액에 도달하면 여행을 가려고 한다.",
+      "계획대로 되면 연말엔 큰 성취감을 느낄 것 같다."
+    ],
+    "english": [
+      "I decided to set a savings goal for this year and stick to it.",
+      "I set up automatic transfers of a certain amount to my savings account every month.",
+      "When I reach the target amount, I plan to go on a trip.",
+      "If things go according to plan, I think I'll feel a great sense of achievement by the end of the year."
+    ]
+  }
+}
