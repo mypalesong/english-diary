@@ -1,5 +1,5 @@
 {
-  "title": "예상치 못한 지출",
+  "title": "Unexpected Repair Cost Hit Me Hard",
   "diary": {
     "korean": [
       "노트북이 갑자기 고장 나서 수리비를 내야 했다.",
@@ -8,10 +8,18 @@
       "이럴 때를 대비해서 비상금이 정말 필요하다는 걸 느꼈다."
     ],
     "english": [
-      "My laptop suddenly broke down, so I had to pay for repairs.",
-      "It was an expense not in the budget, so I was flustered.",
-      "I had no choice but to use my emergency fund.",
-      "I realized that an emergency fund is really necessary for times like this."
+      "So my laptop suddenly stopped working today, like completely out of nowhere.",
+      "I was in the middle of something important when the screen just went black and it wouldn't turn back on.",
+      "I tried everything - restarting it, checking the charger, holding down different buttons - nothing worked.",
+      "So I had no choice but to take it to a repair shop to get it looked at.",
+      "The technician told me there was some internal hardware issue that needed to be fixed.",
+      "And then he gave me the estimate for the repair cost, which was honestly way higher than I expected.",
+      "This was totally an expense I didn't have in my budget at all, and I was pretty flustered about it.",
+      "Like, I'd already planned out where all my money was going this month, and this wasn't part of it.",
+      "I didn't really have a choice though - I need my laptop for work, so I had to get it fixed.",
+      "Thankfully I have an emergency fund saved up for situations exactly like this.",
+      "I had to dip into that emergency money to cover the repair cost, which kinda sucks.",
+      "But this whole situation really made me realize how important it is to have that safety net for unexpected expenses."
     ]
   }
 }

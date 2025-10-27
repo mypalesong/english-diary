@@ -1,5 +1,5 @@
 {
-  "title": "건강검진",
+  "title": "Annual Health Checkup Day",
   "diary": {
     "korean": [
       "오늘은 1년에 한 번 하는 건강검진 날이다.",
@@ -8,10 +8,18 @@
       "결과가 나오면 좀 걱정되는데 건강했으면 좋겠다."
     ],
     "english": [
-      "Today is the day for my annual health checkup.",
-      "I was so hungry from fasting since morning.",
-      "It took 3 hours to do all the various tests.",
-      "I'm a bit worried when the results come out, but I hope I'm healthy."
+      "So today was the day for my annual health checkup that I do once a year.",
+      "I had to fast from the night before, which meant no breakfast this morning at all.",
+      "By the time I got to the hospital, I was literally starving - my stomach was growling so loud.",
+      "The nurse told me I couldn't eat anything until all the tests were done, which made it even worse.",
+      "They had me do all these different tests - blood work, urine sample, X-rays, the whole thing.",
+      "I was going from one room to another for like three hours straight, just doing test after test.",
+      "Some of the tests were quick, but some of them took forever and I had to wait in line.",
+      "The whole time I was just thinking about what I was gonna eat as soon as this was over.",
+      "When I finally finished everything, they said the results would come out in about a week.",
+      "Now I'm honestly a bit nervous about what the results will show.",
+      "Like, I know I haven't been taking the best care of myself lately, so I'm kinda worried.",
+      "I really hope everything comes back normal and healthy - fingers crossed I guess."
     ]
   }
 }

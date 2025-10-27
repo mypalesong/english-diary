@@ -1,17 +1,25 @@
 {
-  "title": "예방접종",
+  "title": "Getting My Flu Shot This Year",
   "diary": {
     "korean": [
       "독감 예방접종을 맞으러 갔다.",
       "주사 맞을 때 생각보다 안 아팠어.",
-      "접종 후에 팔이 좀 묵직한 느낌이 든다.",
+      "접종 후에 팔이 좀 묵직한 느�임이 든다.",
       "내일은 팔이 좀 아프겠지만 그래도 맞길 잘했다."
     ],
     "english": [
-      "I went to get a flu shot.",
-      "It didn't hurt as much as I thought when I got the shot.",
-      "My arm feels a bit heavy after the vaccination.",
-      "My arm will probably hurt tomorrow, but I'm glad I got it."
+      "So today I finally went to get my flu shot, which I've been putting off for like weeks now.",
+      "Every year I tell myself I'm gonna get it early, but then I always end up procrastinating.",
+      "This time though, I actually made myself go because flu season is already starting.",
+      "I honestly always get a bit nervous before getting shots - I know it's kinda silly, but I just don't like needles.",
+      "When it was my turn, the nurse was really quick and efficient about it.",
+      "She cleaned my arm, told me to look away, and then boom - it was done in like two seconds.",
+      "Honestly, it didn't hurt nearly as much as I thought it would, which was a relief.",
+      "Like, I'd been building it up in my head as this big painful thing, but it was actually pretty mild.",
+      "Right after the vaccination though, my arm started feeling kinda heavy and a bit sore.",
+      "It's this weird sensation, like someone punched my arm but not super hard, you know?",
+      "I'm pretty sure my arm is gonna be more sore tomorrow - that's usually how it goes with flu shots.",
+      "But even though I know it'll hurt for a day or two, I'm really glad I got it done - better safe than sorry."
     ]
   }
 }

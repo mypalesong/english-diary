@@ -1,5 +1,5 @@
 {
-  "title": "고장난 가전",
+  "title": "Dealing With a Broken Appliance",
   "diary": {
     "korean": [
       "청소기가 갑자기 작동을 안 해서 당황했다.",
@@ -8,10 +8,18 @@
       "수리비가 얼마나 나올지 걱정된다."
     ],
     "english": [
-      "I was flustered when the vacuum cleaner suddenly stopped working.",
-      "I tried this and that, but it was no use.",
-      "I called the service center and requested a repair technician.",
-      "I'm worried about how much the repair will cost."
+      "So today I was trying to clean my apartment, and suddenly my vacuum cleaner just stopped working.",
+      "Like, I turned it on and it made this weird noise, and then nothing - it was completely dead.",
+      "I was honestly pretty flustered because I really needed to vacuum, and now I couldn't.",
+      "I tried all sorts of things to fix it - unplugging it, checking if something was stuck, pressing different buttons.",
+      "I even looked at the manual to see if there was some reset button or something I was missing.",
+      "But no matter what I did, the vacuum just wouldn't turn back on - it was totally useless.",
+      "So I gave up on fixing it myself and called the service center to explain the problem.",
+      "They said they'd send a repair technician out to take a look at it sometime this week.",
+      "The person on the phone couldn't tell me what was wrong or give me an estimate over the phone.",
+      "Now I'm just sitting here worried about how much this repair is gonna cost me.",
+      "Like, if it's something expensive, I might as well just buy a new vacuum instead, you know?",
+      "I really hope it's just something simple and cheap to fix, but I'm not feeling super optimistic about it."
     ]
   }
 }

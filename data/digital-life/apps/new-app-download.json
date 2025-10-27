@@ -1,5 +1,5 @@
 {
-  "title": "새 앱 다운로드",
+  "title": "Trying Out a New App My Friend Recommended",
   "diary": {
     "korean": [
       "친구가 추천해준 앱을 다운받아봤다.",
@@ -8,10 +8,18 @@
       "유용하면 계속 쓰고 아니면 지워야지."
     ],
     "english": [
-      "I downloaded an app my friend recommended.",
-      "It took some time to learn how to use it.",
-      "There are many features, so I'll try them slowly one by one.",
-      "If it's useful, I'll keep using it, otherwise I'll delete it."
+      "So my friend was telling me about this app she's been using and honestly, she wouldn't stop raving about it.",
+      "She was like, 'You have to download it, it's so good,' so I was like, okay fine, I'll try it.",
+      "I went to the app store and downloaded it, and right away there was like a tutorial thing.",
+      "But you know what, I kinda just skipped through it because I usually just figure things out as I go.",
+      "When I started actually using it, I realized it's way more complicated than I thought.",
+      "There are literally so many features and buttons everywhere, it's kinda overwhelming.",
+      "I spent like 30 minutes just clicking around trying to understand what everything does.",
+      "Some of it makes sense, but honestly, some of the features I have no idea what they're even for.",
+      "I think I'm gonna have to take my time and try them out slowly, one by one.",
+      "Like, maybe I'll explore one new feature each day or something.",
+      "If it turns out to be actually useful, I'll definitely keep using it for sure.",
+      "But if it's just complicated for no reason and doesn't really help me, I'm totally gonna delete it."
     ]
   }
 }

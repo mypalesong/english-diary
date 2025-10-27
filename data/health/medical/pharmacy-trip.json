@@ -1,5 +1,5 @@
 {
-  "title": "약국 들르기",
+  "title": "Quick Pharmacy Stop on the Way Home",
   "diary": {
     "korean": [
       "두통약이 떨어져서 퇴근길에 약국에 들렀다.",
@@ -8,10 +8,18 @@
       "건강 관리를 좀 더 신경 써야 할 것 같다."
     ],
     "english": [
-      "I ran out of headache medicine, so I stopped by the pharmacy on my way home from work.",
-      "The pharmacist kindly asked about my symptoms.",
-      "I bought the recommended medicine and some vitamins too.",
-      "I think I need to pay more attention to my health management."
+      "So I realized this afternoon that I completely ran out of headache medicine, which is like my go-to thing.",
+      "I've been getting these headaches pretty regularly lately, probably from staring at screens all day.",
+      "On my way home from work today, I decided to stop by the pharmacy to pick up some more.",
+      "When I got there, the pharmacist was super nice and asked me about my symptoms.",
+      "She wanted to know how often I was getting these headaches and how severe they were.",
+      "I explained that it's been happening like a few times a week, usually by the end of the workday.",
+      "She recommended this specific brand that she said was pretty effective for tension headaches.",
+      "While I was there, she also suggested I might wanna try taking some vitamins for overall health.",
+      "I figured, why not, you know? So I ended up buying both the headache medicine and a bottle of multivitamins.",
+      "The whole experience made me realize I've been kind of neglecting my health lately.",
+      "Like, I should probably be more proactive about taking care of myself instead of just treating symptoms.",
+      "I think I really need to start paying more attention to my health management and maybe even see a doctor soon."
     ]
   }
 }
