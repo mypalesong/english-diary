@@ -2,16 +2,36 @@
   "title": "택시 타기",
   "diary": {
     "korean": [
-      "너무 피곤해서 오늘은 택시를 탔다.",
+      "오늘 회의가 끝나고 너무 피곤해서 택시를 탔다.",
+      "버스나 지하철을 타기엔 기력이 하나도 없었어.",
+      "앱으로 호출하니까 3분 만에 도착해서 편했다.",
       "뒷좌석에 편하게 앉아서 가니까 정말 좋았어.",
-      "기사님이 길을 잘 아셔서 빨리 도착했다.",
-      "가끔은 이렇게 편하게 가는 것도 필요한 것 같다."
+      "그냥, 창밖 풍경을 보면서 멍하니 있었어.",
+      "기사님이 길을 정말 잘 아셔서 빨리 도착했다.",
+      "평소에는 30분 걸리는 길인데 20분 만에 도착했어.",
+      "기사님이랑 잠깐 대화도 나눴는데 좋은 분이셨어.",
+      "음악도 조용하게 나오고 차도 깨끗해서 쾌적했다.",
+      "택시비는 좀 나갔지만 오늘은 그럴 만한 가치가 있었어.",
+      "집에 도착하니까 정말 빨리 온 것 같아서 신기했다.",
+      "현관문 앞까지 데려다주니까 짐 들고 가기도 편했어.",
+      "가끔은 이렇게 편하게 가는 것도 필요한 것 같아.",
+      "다음에 피곤할 때도 망설이지 말고 택시 타야겠다."
     ],
     "english": [
-      "I was too tired, so I took a taxi today.",
+      "I was super tired after the meeting ended today, so I took a taxi.",
+      "I had absolutely no energy to take the bus or subway.",
+      "I called one with an app and it arrived in 3 minutes, which was convenient.",
       "It felt really nice to sit comfortably in the back seat.",
-      "The driver knew the roads well, so we arrived quickly.",
-      "Sometimes it seems necessary to travel comfortably like this."
+      "I just, like, spaced out watching the scenery outside the window.",
+      "The driver knew the roads really well, so we arrived quickly.",
+      "It usually takes 30 minutes, but we got there in 20.",
+      "I chatted briefly with the driver and he was a nice guy.",
+      "The music was playing softly and the car was clean, so it was pleasant.",
+      "The taxi fare was a bit much, but today it was worth it.",
+      "When I got home it felt like I got there so fast, it was amazing.",
+      "Actually, being dropped off right at my front door made it easy to carry my stuff.",
+      "I think sometimes traveling comfortably like this is necessary.",
+      "Next time I'm exhausted, I should just take a taxi without hesitation."
     ]
   }
 }
