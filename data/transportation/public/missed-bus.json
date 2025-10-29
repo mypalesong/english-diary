@@ -1,17 +1,33 @@
 {
-  "title": "버스 놓침",
+  "title": "Missing the Bus Right Before My Eyes",
   "diary": {
     "korean": [
-      "조금만 더 빨리 걸었으면 탈 수 있었는데 눈앞에서 버스가 떠났다.",
-      "손 흔들며 뛰어갔지만 기사님이 못 본 것 같아.",
-      "다음 버스까지 20분을 기다려야 한다.",
-      "아침부터 운이 없는 하루다."
+      "오늘 아침에 정류장으로 가는데, 멀리서 버스가 오는 게 보이더라고.",
+      "조금만 더 빨리 걸으면 될 것 같아서 속도를 냈어.",
+      "근데 막상 거의 다 도착했을 때 버스가 딱 정류장에 서 있는 거야.",
+      "나는 손 흔들면서 뛰어갔는데, 진짜 몇 미터 남았을 때 버스 문이 닫혔어.",
+      "눈앞에서 버스가 그냥 떠나버리는 걸 보니까 진짜 황당했어, 솔직히.",
+      "기사님이 나를 못 본 건지, 아니면 본 척 안 한 건지 모르겠더라고.",
+      "어쨌든 버스는 가버렸고, 나는 정류장에서 헛웃음만 나왔어.",
+      "시간표 보니까 다음 버스까지 20분을 기다려야 하는 거야.",
+      "그냥 서서 기다리기엔 너무 긴 시간이라서 짜증 났어.",
+      "핸드폰 꺼내서 시간 때우면서 기다렸는데, 진짜 지루하더라고.",
+      "다음 버스가 왔을 때는 이번엔 놓치지 말아야지 하고 미리 준비했어.",
+      "아침부터 이렇게 운이 없으니까, 오늘 하루가 좀 걱정되더라고."
     ],
     "english": [
-      "If I had walked just a bit faster I could've caught it, but the bus left right before my eyes.",
-      "I ran waving my hand, but I don't think the driver saw me.",
-      "I have to wait 20 minutes for the next bus.",
-      "It's an unlucky day from the morning."
+      "So like, this morning I was walking to the bus stop and I could see the bus coming from far away.",
+      "I thought if I walked just a bit faster I'd make it, so I sped up.",
+      "But when I almost got there the bus was literally just sitting at the stop.",
+      "I was running and waving my hand, and honestly when I was like a few meters away the bus doors closed.",
+      "Watching the bus just leave right before my eyes was honestly so frustrating.",
+      "I don't know if the driver didn't see me or just pretended not to see me, you know?",
+      "Anyway the bus left, and I was just standing at the stop with this awkward laugh.",
+      "I checked the schedule and I had to wait 20 minutes for the next bus.",
+      "It was too long to just stand and wait so I was pretty annoyed.",
+      "I took out my phone and killed time while waiting, but it was really boring.",
+      "When the next bus came I was like, I can't miss this one, so I prepared in advance.",
+      "Starting the morning with such bad luck made me kinda worried about the rest of the day."
     ]
   }
 }

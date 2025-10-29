@@ -1,17 +1,33 @@
 {
-  "title": "지하철 러시아워",
+  "title": "Surviving Rush Hour on the Subway",
   "diary": {
     "korean": [
-      "출근 시간 지하철은 정말 지옥이다.",
-      "사람들에게 밀려서 거의 떠밀려 들어갔어.",
-      "숨쉬기도 힘들 정도로 빽빽했다.",
-      "재택근무가 그리워지는 순간이었다."
+      "오늘 아침에 출근하는데, 지하철 타는 순간부터 진짜 지옥이었어.",
+      "플랫폼에 사람들이 막 몰려있는 거야, 완전 인파의 바다.",
+      "지하철 문이 열리자마자 사람들이 막 밀고 들어가는데, 나도 같이 떠밀려 들어갔어.",
+      "안에 들어가니까 숨쉬기도 힘들 정도로 빽빽하더라고, 진짜.",
+      "옆 사람이랑 어깨가 막 닿는데, 움직일 공간이 하나도 없었어.",
+      "핸드폰을 꺼내려고 했는데, 팔도 못 움직이겠더라고.",
+      "그냥 가만히 서서 버티는 수밖에 없었어, 솔직히.",
+      "정거장 지날 때마다 사람들이 타고 내리면서 더 밀려서, 진짜 짜증 났어.",
+      "한 30분 정도 그렇게 서 있었는데, 다리도 아프고 완전 피곤했어.",
+      "내릴 역 가까워졌을 때 출구 쪽으로 가려고 하는데, 사람들 뚫고 가기가 진짜 힘들더라고.",
+      "겨우겨우 내려서 밖으로 나왔는데, 숨 쉴 수 있어서 너무 좋았어.",
+      "이럴 때마다 재택근무가 진짜 그리워진다니까, 완전."
     ],
     "english": [
-      "The subway during rush hour is truly hell.",
-      "I was pushed by people and practically shoved inside.",
-      "It was so packed that it was hard to even breathe.",
-      "It was a moment that made me miss working from home."
+      "So like, this morning when I was commuting to work, the moment I got on the subway it was literally hell.",
+      "People were just crowded all over the platform, like a total sea of people, you know?",
+      "As soon as the subway doors opened people were pushing and shoving their way in, and I got pushed in with them too.",
+      "Once I got inside it was so packed that it was honestly hard to even breathe.",
+      "My shoulder was like touching the person next to me, and there was literally no space to move.",
+      "I tried to take out my phone but I couldn't even move my arms, honestly.",
+      "I just had to stand still and endure it, you know what I mean?",
+      "Every time we passed a station people were getting on and off and pushing more, and I was so annoyed.",
+      "I stood like that for about 30 minutes, and my legs hurt and I was completely tired.",
+      "When my stop got close I tried to move toward the exit, but pushing through the people was really hard.",
+      "I barely managed to get off and came outside, and it felt so good to be able to breathe.",
+      "Times like this really make me miss working from home, honestly."
     ]
   }
 }

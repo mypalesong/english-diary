@@ -1,17 +1,33 @@
 {
-  "title": "전철 지연",
+  "title": "Frustrating Train Delay Ruined My Schedule",
   "diary": {
     "korean": [
-      "갑자기 전철이 신호 대기로 멈춰섰다.",
-      "역과 역 사이에서 10분 넘게 서 있었어.",
-      "차 안에 있던 사람들 다 짜증이 났는지 분위기가 안 좋았다.",
-      "약속 시간에 늦을 것 같아서 연락했다."
+      "오늘 전철 타고 가는데, 갑자기 전철이 덜컹 멈춰버린 거야.",
+      "처음에는 뭔 일인가 싶어서 두리번거렸는데, 안내 방송이 나오더라고.",
+      "신호 대기로 잠시 멈춘다고 하는데, 막 불안해지기 시작했어.",
+      "약속 시간이 있어서 지금 늦으면 안 되는 상황이었거든.",
+      "그런데 5분이 지나고, 10분이 지나도 전철이 안 움직이는 거야.",
+      "역과 역 사이 중간에 멈춰 있으니까 내릴 수도 없고 진짜 답답했어.",
+      "차 안에 있던 사람들도 다 짜증이 난 것 같더라고.",
+      "누군가 한숨 쉬고, 누군가 핸드폰으로 전화하고, 분위기가 완전 안 좋았어.",
+      "나도 친구한테 급하게 연락해서 늦을 것 같다고 말했어.",
+      "결국 15분쯤 지나서야 전철이 다시 움직이기 시작했어.",
+      "다음 역 도착했을 때는 이미 약속 시간 10분 지나 있었어.",
+      "전철 지연 때문에 하루 스케줄이 완전 꼬여버린 기분이었어."
     ],
     "english": [
-      "The train suddenly stopped due to signal wait.",
-      "We stood between stations for over 10 minutes.",
-      "Everyone in the car seemed annoyed, and the atmosphere was bad.",
-      "I contacted them because it looked like I'd be late for my appointment."
+      "So today I was riding the train and suddenly the train just stopped with a jolt.",
+      "At first I was like, what's going on, and I looked around, then an announcement came on.",
+      "It said we were stopping briefly for signal wait, and I started getting anxious.",
+      "I had an appointment and I couldn't be late at this point.",
+      "But 5 minutes passed, 10 minutes passed, and the train still wasn't moving.",
+      "We were stopped in the middle between stations so I couldn't even get off and it was really frustrating.",
+      "It seemed like everyone in the car was annoyed too.",
+      "Someone was sighing, someone was calling on their phone, the atmosphere was totally bad.",
+      "I also quickly contacted my friend and told them I'd probably be late.",
+      "Eventually after about 15 minutes the train started moving again.",
+      "When we arrived at the next station I was already 10 minutes late for my appointment.",
+      "It felt like the train delay completely messed up my whole schedule for the day."
     ]
   }
 }

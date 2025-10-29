@@ -1,17 +1,33 @@
 {
-  "title": "주유소 들르기",
+  "title": "Depressing Trip to the Gas Station",
   "diary": {
     "korean": [
-      "기름이 거의 바닥나서 주유소에 들렀다.",
-      "기름값을 보고 한숨이 절로 나왔어.",
-      "가득 채우니까 10만원이 훌쩍 넘어갔다.",
-      "차 없이 사는 게 부러워지는 순간이다."
+      "오늘 운전하다가 기름 경고등이 켜져서, 어쩔 수 없이 주유소에 들러야 했어.",
+      "요즘 기름값이 진짜 비싸다는 얘기 들었는데, 직접 보니까 더 충격이었어.",
+      "주유기 화면에 나오는 가격 보고 한숨이 절로 나왔어, 진짜.",
+      "그래도 어쩌겠어, 기름 넣어야지 차를 굴리지.",
+      "일단 가득 채우기로 하고 주유를 시작했어.",
+      "숫자가 막 올라가는데, 돈이 막 날아가는 느낌이더라고.",
+      "5만원 넘어가고, 7만원 넘어가고, 계속 올라가는데 진짜 속이 쓰렸어.",
+      "결국 가득 채우니까 10만원이 훌쩍 넘어가버렸어.",
+      "카드 긁으면서 이게 맞나 싶은 생각이 들었어, 솔직히.",
+      "예전엔 이렇게까지 안 비쌌는데, 요즘엔 주유하는 게 부담스러워.",
+      "차 없이 사는 친구들이 이럴 때 진짜 부러워지더라고.",
+      "그래도 차는 편하니까, 이것도 유지비라고 생각해야지 뭐."
     ],
     "english": [
-      "I stopped by the gas station because I was almost out of gas.",
-      "I sighed when I saw the gas prices.",
-      "Filling up the tank easily went over 100,000 won.",
-      "It's a moment that makes me envy people living without a car."
+      "So today while I was driving the low fuel warning light came on, so I had no choice but to stop at a gas station.",
+      "I've been hearing gas prices are really expensive these days, but seeing it in person was even more shocking.",
+      "When I saw the price on the pump screen I just sighed automatically, honestly.",
+      "But what can you do, you gotta put gas in to drive the car.",
+      "I decided to fill it up completely and started pumping.",
+      "The numbers kept going up and it literally felt like money was just flying away.",
+      "It passed 50,000 won, then 70,000 won, and kept climbing and I was really hurting inside.",
+      "Eventually when I filled it up it easily went over 100,000 won.",
+      "While swiping my card I was like, is this for real, honestly.",
+      "It wasn't this expensive before, but these days filling up feels like such a burden.",
+      "Times like this I really envy my friends who live without cars.",
+      "But cars are convenient so I guess I just have to think of it as maintenance costs."
     ]
   }
 }

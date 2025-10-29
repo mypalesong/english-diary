@@ -1,17 +1,33 @@
 {
-  "title": "환승의 번거로움",
+  "title": "Exhausting Journey with Multiple Transfers",
   "diary": {
     "korean": [
-      "오늘 약속 장소가 너무 멀어서 세 번이나 환승했다.",
-      "환승할 때마다 계단 오르내리는 게 너무 힘들었어.",
-      "목적지에 도착하니까 벌써 지쳐버렸다.",
-      "다음엔 택시를 탈까 진지하게 고민 중이다."
+      "오늘 친구랑 약속이 있었는데, 장소가 진짜 멀더라고.",
+      "지도 앱으로 검색해보니까 세 번이나 환승해야 한다는 거야.",
+      "처음에는 그냥 가자 했는데, 막상 가보니까 진짜 힘들었어.",
+      "첫 번째 환승할 때 계단이 엄청 길어서 올라가는데 숨이 차더라고.",
+      "겨우 올라갔는데, 또 플랫폼까지 걸어가야 해서 다리가 아팠어.",
+      "두 번째 환승은 더 심했어, 솔직히.",
+      "역이 진짜 큰데다가 환승 통로가 막 미로처럼 복잡한 거야.",
+      "사람들도 엄청 많아서 헤매면서 가는데 진짜 짜증 났어.",
+      "세 번째 환승까지 하고 나니까 다리가 완전 후들거렸어.",
+      "목적지 역에 도착했을 때는 벌써 진이 다 빠져 있었어.",
+      "친구 만나서 밥 먹기 전에 이미 피곤해진 기분이었어.",
+      "다음엔 그냥 돈 좀 쓰더라도 택시 탈까 진지하게 고민 중이야."
     ],
     "english": [
-      "Today's meeting place was so far that I had to transfer three times.",
-      "Going up and down stairs with each transfer was so exhausting.",
-      "By the time I arrived at my destination, I was already worn out.",
-      "I'm seriously considering taking a taxi next time."
+      "So today I had plans with a friend, and the place was really far.",
+      "I checked the map app and it said I had to transfer three times.",
+      "At first I was like, whatever let's just go, but when I actually went it was honestly so hard.",
+      "At the first transfer the stairs were super long and I was out of breath climbing up.",
+      "I barely made it up and then I had to walk to the platform too, so my legs hurt.",
+      "The second transfer was even worse, honestly.",
+      "The station was really big and the transfer passage was like a complicated maze.",
+      "There were so many people too and I was wandering around and getting really annoyed.",
+      "After making the third transfer my legs were literally shaking.",
+      "When I arrived at the destination station I was already completely drained.",
+      "Before even meeting my friend and eating I was already feeling exhausted.",
+      "Next time I'm seriously considering just spending some money and taking a taxi."
     ]
   }
 }

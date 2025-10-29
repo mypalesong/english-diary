@@ -1,17 +1,33 @@
 {
-  "title": "운전 중 교통체증",
+  "title": "Stuck in Terrible Traffic on the Way Home",
   "diary": {
     "korean": [
-      "퇴근길에 사고가 나서 도로가 완전히 막혔다.",
-      "한 시간 동안 거의 움직이지 못했어.",
-      "라디오 듣고 노래 부르며 시간을 때웠다.",
-      "집에 도착하니까 평소보다 두 배나 걸렸다."
+      "오늘 퇴근하고 운전해서 집에 가는데, 도로가 갑자기 막히기 시작했어.",
+      "처음에는 그냥 좀 밀리나 보다 했는데, 점점 더 느려지더라고.",
+      "한참 앞을 보니까 경찰차랑 구급차가 보이는 거야, 사고가 난 것 같았어.",
+      "완전히 도로가 막혀서, 거의 한 시간 동안 조금도 움직이지 못했어, 진짜.",
+      "옆 차선 차들도 다 멈춰 있고, 다들 답답해하는 게 느껴지더라고.",
+      "나는 그냥 라디오를 틀어서 음악 들으면서 시간을 때우기로 했어.",
+      "좋아하는 노래 나올 때는 혼자 신나게 따라 부르기도 했어, 솔직히.",
+      "차 안에 혼자니까 부끄러울 것도 없잖아, 그래서 마음껏 불렀어.",
+      "조금씩 앞으로 가긴 했는데, 정말 거북이 속도였어.",
+      "사고 현장 지나가는데 차들이 엄청 많이 부딪혔더라고, 심각해 보였어.",
+      "거기 지나가고 나니까 도로가 좀 뚫려서 정상 속도로 갈 수 있었어.",
+      "집에 도착하니까 평소보다 두 배나 걸렸는데, 진짜 피곤했어."
     ],
     "english": [
-      "There was an accident on the way home from work, so the road was completely blocked.",
-      "I barely moved for an hour.",
-      "I killed time by listening to the radio and singing along.",
-      "It took twice as long as usual to get home."
+      "So today after work I was driving home and the road suddenly started getting backed up.",
+      "At first I was like, oh it's just a bit congested, but it kept getting slower and slower.",
+      "When I looked way ahead I could see police cars and an ambulance, so I guess there was an accident.",
+      "The road was completely blocked and I honestly didn't move at all for like an hour.",
+      "Cars in the other lanes were all stopped too, and you could feel everyone was frustrated.",
+      "I just decided to turn on the radio and listen to music to kill time.",
+      "When my favorite songs came on I was singing along pretty enthusiastically by myself, honestly.",
+      "I was alone in the car so there's nothing to be embarrassed about, so I sang as much as I wanted.",
+      "We did move forward little by little, but it was really at a snail's pace.",
+      "When I passed the accident scene there were so many cars that had crashed, it looked pretty serious.",
+      "After I got past there the road opened up and I could drive at normal speed.",
+      "When I got home it took twice as long as usual, and I was really tired."
     ]
   }
 }
