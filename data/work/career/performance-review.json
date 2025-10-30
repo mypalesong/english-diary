@@ -3,15 +3,31 @@
   "diary": {
     "korean": [
       "오늘 반기 평가 결과를 받았는데 생각보다 좋은 점수를 받았다.",
+      "아침에 팀장님한테 회의실로 오라는 메시지 받고 엄청 떨렸어.",
       "상사가 최근 프로젝트에서 내 역할을 높이 평가해주셨다.",
+      "특히 문제 해결 능력이랑 팀워크가 좋았다고 하셨어.",
       "부족한 부분도 지적받았지만 발전할 수 있는 방향을 제시해주셔서 도움이 됐다.",
-      "다음 평가 때는 더 좋은 결과를 받을 수 있도록 노력해야겠다."
+      "시간 관리랑 우선순위 설정을 좀 더 잘해야 한대.",
+      "솔직히 나도 그 부분은 인정한다.",
+      "평가 끝나고 동료들이 축하해줘서 기분 좋았어.",
+      "다음 평가 때는 더 좋은 결과를 받을 수 있도록 노력해야겠다.",
+      "지적받은 부분 개선하려고 계획 세워봐야지.",
+      "책도 좀 읽어보고 시간 관리 앱도 써봐야겠어.",
+      "이번 평가가 동기부여가 돼서 더 열심히 하고 싶다."
     ],
     "english": [
       "I got my semi-annual performance review today, and the score was better than I expected.",
+      "I got a message this morning from my team leader asking me to come to the meeting room, and I was super nervous.",
       "My boss gave me high marks for my role in the recent project.",
+      "They specifically said my problem-solving skills and teamwork were good.",
       "They also pointed out areas I need to work on and suggested ways to improve, which was helpful.",
-      "I'll work hard so I can get even better results next time."
+      "They said I need to work on time management and prioritization.",
+      "Honestly, I can't argue with that.",
+      "After the review, my coworkers congratulated me and it felt really nice.",
+      "I'll work hard so I can get even better results next time.",
+      "I should make a plan to improve the areas they pointed out.",
+      "Maybe I'll read some books and try using a time management app.",
+      "This review really motivated me and I wanna work even harder."
     ]
   }
 }

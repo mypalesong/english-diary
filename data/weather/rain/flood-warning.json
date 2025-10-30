@@ -3,15 +3,31 @@
   "diary": {
     "korean": [
       "호우 경보가 떠서 외출을 취소했다.",
+      "아침에 핸드폰 재난문자가 계속 울려서 깼어.",
       "창밖을 보니 비가 억수같이 쏟아지고 있었어.",
+      "천둥 번개까지 쳐서 좀 무서웠다.",
       "뉴스에서 침수 피해 소식을 보니까 걱정됐다.",
-      "집에 가만히 있는 게 제일 안전한 것 같다."
+      "우리 동네 지하주차장도 물 들어왔다는 소문 들었어.",
+      "베란다 창문 틈으로 빗물이 새서 수건으로 막았다.",
+      "하루 종일 비 오는 소리만 들렸어.",
+      "집에 가만히 있는 게 제일 안전한 것 같다.",
+      "배달 시킬까 했는데 배달 라이더분들 생각하니까 그냥 집에 있는 거 먹었어.",
+      "저녁 되니까 비가 조금 약해지긴 했는데 아직도 많이 온다.",
+      "내일 아침까지 계속 비 온대. 빨리 그쳤으면 좋겠다."
     ],
     "english": [
       "A heavy rain warning came up, so I canceled going out.",
+      "I woke up to my phone buzzing with emergency alerts all morning.",
       "Looking outside the window, rain was pouring down heavily.",
+      "There was thunder and lightning too, which was kind of scary.",
       "I was worried seeing news about flooding damage on TV.",
-      "It seems safest to just stay put at home."
+      "I heard rumors that water got into our neighborhood's underground parking lot.",
+      "Rainwater was leaking through the balcony window gaps, so I stuffed towels there.",
+      "All day long, I basically just heard the sound of rain.",
+      "It seems safest to just stay put at home.",
+      "I thought about ordering delivery, but thinking about the delivery riders, I just ate what I had at home.",
+      "By evening the rain got a bit lighter, but it's still coming down pretty hard.",
+      "They say it's gonna keep raining until tomorrow morning. I really hope it stops soon."
     ]
   }
 }

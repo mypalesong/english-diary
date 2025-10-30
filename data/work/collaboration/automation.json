@@ -3,15 +3,31 @@
   "diary": {
     "korean": [
       "매일 반복적으로 하던 작업을 자동화하는 스크립트를 짰다.",
+      "데이터 정리하는 거 매일 하는데 진짜 귀찮았거든.",
       "처음엔 어려웠지만 인터넷 검색하면서 하나씩 해결했다.",
+      "스택오버플로우랑 깃허브 코드 참고하면서 했어.",
       "테스트해보니까 5분 걸리던 일이 10초 만에 끝났다.",
-      "동료들한테도 공유했더니 다들 좋아했다. 뿌듯하다."
+      "처음엔 믿기지 않아서 몇 번 더 돌려봤는데 진짜 빨라.",
+      "동료들한테도 공유했더니 다들 좋아했다. 뿌듯하다.",
+      "한 명은 자기 업무에도 적용해보고 싶다고 하더라.",
+      "팀장님도 칭찬해주셔서 기분 좋았어.",
+      "이런 작은 개선이 쌓이면 효율이 엄청 올라가겠지.",
+      "다음에 또 반복 작업 있으면 자동화해봐야겠어.",
+      "코딩 공부한 보람이 있네."
     ],
     "english": [
       "I wrote a script to automate a task I'd been doing repeatedly every day.",
+      "I had to organize data every day and it was honestly so annoying.",
       "It was tough at first, but I figured it out step by step with some googling.",
+      "I used Stack Overflow and referenced some GitHub code.",
       "When I tested it, something that took 5 minutes was done in 10 seconds.",
-      "I shared it with my coworkers and they loved it. Feels great."
+      "I couldn't believe it at first, so I ran it a few more times, but it's seriously that fast.",
+      "I shared it with my coworkers and they loved it. Feels great.",
+      "One person said they wanna try applying it to their work too.",
+      "My team leader praised me for it, which felt really good.",
+      "If these small improvements add up, the efficiency gains would be huge.",
+      "Next time I have a repetitive task, I should automate it.",
+      "It feels good knowing my coding studies paid off."
     ]
   }
 }

@@ -3,15 +3,31 @@
   "diary": {
     "korean": [
       "주말 동안 쌓인 이메일이 100개가 넘었다.",
+      "월요일 아침에 출근해서 메일함 열었더니 빨간 숫자 보고 한숨 나왔어.",
       "월요일 아침부터 이메일 읽고 답장하느라 정신이 하나도 없었다.",
+      "스팸도 많고 참조로만 들어온 것도 많아서 정리하는 데 시간 오래 걸렸어.",
       "중요한 건 먼저 처리하고 나머지는 오후에 천천히 봤다.",
-      "이메일 관리 시스템을 좀 바꿔야 할 것 같다."
+      "긴급 표시된 건 바로 답장하고 나중에 봐도 되는 건 폴더로 옮겼어.",
+      "점심시간 지나서야 겨우 받은편지함이 정리됐다.",
+      "오후에 또 새로운 메일이 계속 들어와서 끝이 없더라.",
+      "이메일 관리 시스템을 좀 바꿔야 할 것 같다.",
+      "필터 기능도 쓰고 알림 설정도 바꿔봐야겠어.",
+      "동료한테 물어보니까 라벨 기능 쓰면 좋다고 하더라.",
+      "다음 주부터는 주말에도 이메일 좀 확인해야 할 것 같다."
     ],
     "english": [
       "I had over 100 emails piled up from the weekend.",
+      "I got to work Monday morning, opened my inbox, and let out a sigh seeing that red number.",
       "Monday morning was chaotic trying to read and reply to everything.",
+      "There was a lot of spam and CC emails, so it took forever to sort through.",
       "I handled the important ones first and dealt with the rest slowly in the afternoon.",
-      "I think I need to change my email management system."
+      "I replied to the urgent ones right away and moved the ones I could read later into folders.",
+      "It wasn't until after lunch that I finally got my inbox under control.",
+      "In the afternoon, new emails kept coming in, so it felt like it never ends.",
+      "I think I need to change my email management system.",
+      "I should use filters and change my notification settings.",
+      "I asked a coworker and they said using labels works really well.",
+      "Starting next week, I think I need to check emails even on the weekend."
     ]
   }
 }

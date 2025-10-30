@@ -3,15 +3,31 @@
   "diary": {
     "korean": [
       "오늘 미세먼지 농도가 매우 나쁨이라서 마스크를 쓰고 나갔다.",
+      "아침에 미세먼지 앱 확인했는데 빨간색으로 표시되더라.",
       "하늘이 뿌옇게 보여서 기분이 우울했어.",
+      "목도 칼칼하고 눈도 따갑고 진짜 최악이야.",
       "창문도 열지 못하고 공기청정기만 돌렸다.",
-      "맑은 공기가 그리운 하루였다."
+      "공기청정기 필터 보니까 벌써 회색으로 변했어.",
+      "밖에 나갈 일이 있어서 KF94 마스크 꼭 쓰고 다녔다.",
+      "그래도 목이 아파서 약국에서 목캔디 샀어.",
+      "편의점 가는 것도 귀찮아서 배달 시켜먹었다.",
+      "맑은 공기가 그리운 하루였다.",
+      "뉴스에서 중국발 미세먼지라고 하던데 언제까지 이럴 건지 모르겠어.",
+      "내일은 비 온대. 비라도 와서 미세먼지 좀 씻어줬으면 좋겠다."
     ],
     "english": [
       "The fine dust level was very bad today, so I wore a mask when I went out.",
+      "I checked the air quality app this morning and it was, like, bright red.",
       "The sky looked hazy and it made me feel gloomy.",
+      "My throat felt scratchy and my eyes were stinging. Honestly, it was the worst.",
       "I couldn't even open the windows and just ran the air purifier.",
-      "It was a day when I missed clean air."
+      "I looked at the air purifier filter and it already turned gray.",
+      "I had to go out, so I made sure to wear a KF94 mask the whole time.",
+      "My throat was hurting anyway, so I bought some throat lozenges at the pharmacy.",
+      "I was too lazy to go to the convenience store, so I just ordered delivery.",
+      "It was a day when I missed clean air.",
+      "The news said it's fine dust from China, but I mean, who knows when this will end.",
+      "They say it's gonna rain tomorrow. I really hope the rain washes away this dust."
     ]
   }
 }

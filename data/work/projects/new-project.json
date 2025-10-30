@@ -3,15 +3,31 @@
   "diary": {
     "korean": [
       "오늘 새로운 프로젝트 킥오프 미팅이 있었다.",
+      "회의실에 팀원들 다 모여서 프로젝트 목표랑 일정 공유받았어.",
       "이번엔 처음 다뤄보는 기술이라 설레기도 하고 걱정도 된다.",
+      "팀장님이 어렵지만 좋은 경험이 될 거라고 하셨어.",
       "팀원들과 역할 분담을 하고 일정을 대략 정했다.",
-      "새로운 걸 배울 수 있는 기회라고 생각하고 열심히 해봐야겠다."
+      "나는 백엔드 쪽 담당하기로 했고 다른 팀원은 프론트엔드 맡았어.",
+      "마감은 3개월 후라서 시간은 충분한 것 같아.",
+      "미팅 후에 관련 자료 찾아보면서 공부 시작했어.",
+      "새로운 걸 배울 수 있는 기회라고 생각하고 열심히 해봐야겠다.",
+      "동료한테 이 기술 써본 적 있냐고 물어봤는데 없대.",
+      "다 같이 처음이라 서로 도우면서 하면 될 것 같아.",
+      "내일부터 본격적으로 개발 들어가는데 기대된다."
     ],
     "english": [
       "We had the kickoff meeting for a new project today.",
+      "The whole team gathered in the conference room and we got briefed on the project goals and timeline.",
       "I'm both excited and nervous because it involves tech I've never worked with before.",
+      "My team leader said it'll be challenging but it'll be a great experience.",
       "We divided up the roles among team members and roughly set the timeline.",
-      "I'll think of it as a chance to learn something new and give it my best shot."
+      "I'm gonna handle the backend and another team member took the frontend.",
+      "The deadline is in three months, so I think we have enough time.",
+      "After the meeting, I started studying by looking up related materials.",
+      "I'll think of it as a chance to learn something new and give it my best shot.",
+      "I asked a coworker if they'd used this tech before and they said no.",
+      "We're all new to it, so I think we can help each other out.",
+      "We're diving into development starting tomorrow and I'm looking forward to it."
     ]
   }
 }

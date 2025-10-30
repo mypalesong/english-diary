@@ -3,15 +3,31 @@
   "diary": {
     "korean": [
       "오늘 중요한 보고서에서 숫자를 잘못 적어서 상사한테 지적받았다.",
+      "회의 중에 보고하는데 갑자기 팀장님이 이 숫자 맞냐고 물으셨어.",
       "얼굴이 확 달아올라서 창피했다.",
+      "다시 확인해보니까 진짜 틀렸더라. 완전 멘붕.",
       "바로 수정해서 다시 제출했지만 한동안 기분이 안 좋았다.",
-      "다음부터는 제출하기 전에 꼭 두세 번 확인해야겠다."
+      "점심 먹을 때도 입맛이 없었어.",
+      "동료가 괜찮다고 위로해줬지만 계속 신경 쓰였다.",
+      "오후에 업무하면서도 집중이 잘 안 됐어.",
+      "다음부터는 제출하기 전에 꼭 두세 번 확인해야겠다.",
+      "체크리스트도 만들어서 하나하나 점검해야겠어.",
+      "이런 실수 두 번 다시 안 하려고 노트에 적어놨다.",
+      "퇴근하면서 내일은 더 조심해야지 다짐했다."
     ],
     "english": [
       "I made a mistake in an important report today and my boss called me out on it.",
+      "I was presenting in the meeting and suddenly my team leader asked if the numbers were correct.",
       "My face turned red and I was so embarrassed.",
+      "I checked again and it really was wrong. Total panic mode.",
       "I fixed it right away and resubmitted, but I felt terrible for a while.",
-      "From now on, I need to double or triple-check everything before submitting."
+      "I didn't even have an appetite during lunch.",
+      "A coworker tried to comfort me saying it's okay, but I kept thinking about it.",
+      "Even working in the afternoon, I couldn't really focus.",
+      "From now on, I need to double or triple-check everything before submitting.",
+      "I should make a checklist and go through each item one by one.",
+      "I wrote in my notebook that I won't make this mistake again.",
+      "On my way home, I promised myself I'd be more careful tomorrow."
     ]
   }
 }

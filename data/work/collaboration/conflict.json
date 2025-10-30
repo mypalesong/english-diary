@@ -3,15 +3,31 @@
   "diary": {
     "korean": [
       "오늘 회의에서 동료랑 의견이 안 맞아서 좀 언성이 높아졌다.",
+      "프로젝트 방향성에 대한 논의였는데 서로 생각이 달랐어.",
       "나는 A안이 맞다고 생각했는데 그 동료는 B안을 강하게 주장했다.",
+      "각자 근거를 대면서 설명했는데 점점 열띤 토론이 됐어.",
       "결국 팀장님이 중재해서 절충안을 찾았다.",
-      "회의 끝나고 서로 미안하다고 하고 커피 한잔 했다. 다행히 감정은 안 남았다."
+      "두 안의 장점을 합쳐서 새로운 방향을 제시하셨어.",
+      "그 의견 들으니까 나도 동료도 수긍했다.",
+      "회의 끝나고 서로 미안하다고 하고 커피 한잔 했다. 다행히 감정은 안 남았다.",
+      "동료가 내 입장도 이해한다고 하더라.",
+      "나도 그 동료 의견에 일리가 있었다고 인정했어.",
+      "오히려 이렇게 솔직하게 얘기할 수 있어서 좋은 것 같아.",
+      "다음 회의 때는 좀 더 차분하게 의견 나눠야겠다."
     ],
     "english": [
       "During today's meeting, a colleague and I disagreed and things got a bit heated.",
+      "We were discussing the project direction and we had different ideas.",
       "I thought option A was right, but they were strongly pushing for option B.",
+      "We each presented our reasoning and it turned into a pretty intense debate.",
       "In the end, our team leader stepped in and we found a compromise.",
-      "After the meeting, we both apologized and grabbed coffee together. Thankfully, there's no hard feelings."
+      "They combined the strengths of both options and proposed a new direction.",
+      "When we heard that, both my colleague and I were on board.",
+      "After the meeting, we both apologized and grabbed coffee together. Thankfully, there's no hard feelings.",
+      "My colleague said they understood my position too.",
+      "I also admitted their opinion had some valid points.",
+      "Actually, I think it's good that we can be this honest with each other.",
+      "Next meeting, I should try to share my opinions more calmly."
     ]
   }
 }
